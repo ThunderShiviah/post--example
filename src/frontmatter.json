@@ -3,10 +3,10 @@
 	"description": "An example project using Webpack, Babel, and Svelte.",
 	"authors": [
 		{
-			"author": "Ludwig Schubert",
-			"authorURL": "https://schubert.io/",
-			"affiliation": "OpenAI",
-			"affiliationURL": "https://openai.com"
+			"author": "Thunder Shiviah",
+			"authorURL": "https://thundershiviah.github.io/",
+			"affiliation": "None.",
+			"affiliationURL": ""
 		}
 	],
 	"katex": {
